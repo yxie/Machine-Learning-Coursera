@@ -1,0 +1,15 @@
+To ECE students:
+
+I would like to let you know about BMGT 838E, "Stochastic Optimization," a Ph.D. course offered in Fall 2014 by the Operations Management group at the Smith School of Business. This course, a relatively new addition to the OM catalog,  provides a survey of models and methods used for solving cutting-edge problems in stochastic optimization. I would like to reach out to ECE students who are interested in incorporating decision-making under uncertainty into their research.
+
+The objective of the course is to provide a broad perspective of this interdisciplinary field, bringing together viewpoints from such communities as operations research, civil engineering, computer science, and simulation. Topics covered include stochastic search, dynamic programming, stochastic programming, and the emerging discipline of optimal learning. The class may also feature guest speakers on recent research in  stochastic optimization. We will focus on studying usable methods that can be, and have been, successfully implemented to solve practical applications in transportation, operations management, health care, and energy.
+
+The workload will consist of 5 homework assignments to be handed in roughly once every two weeks. There will be one in-class midterm exam. There will be no final exam, but there will be a course project which will require students to model a stochastic optimization problem and attempt to solve it using one or more techniques from class. There is no set topic for the project -- it is my hope that students will bring applications from their own area of expertise, and use the project to begin integrating stochastic optimization into their research. Most of the homework will be assigned in the first half of the semester, thus freeing up time for students to work on their projects in the second half.
+
+The only pre-requisite for BMGT 838E  is any graduate-level course in probability and stochastic processes at  the level of BMGT 834, or an equivalent course from another program. It is not necessary to have a background in measure theory for this course. If you are unsure about your background, please discuss the matter with me.
+
+The course will meet on Wednesdays, 3:30-6:10 PM, in Van Munching Hall, room 3330H. I look forward to seeing you in BMGT 838E this fall.
+
+Ilya O. Ryzhov
+Assistant Professor
+Robert H. Smith School of Business
